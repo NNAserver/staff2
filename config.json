@@ -4,6 +4,6 @@
 	"name": "STAFF2",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register airbro123",
+	"register-cmd":"/register airbro123 airbro123",
 	"login-cmd":"/login airbro123"
 }
